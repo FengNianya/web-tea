@@ -1,0 +1,33 @@
+header{
+  background-image: url(../img/tea-table.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+header img{
+  width: 15%;
+  margin:2% 60% 6% 25%;
+}
+.contain{
+  background: #ebebeb;
+  padding:5% 13% 0 13%;
+}
+.contain img{
+ display: block;
+ width: 83%;
+ margin:0 auto;
+}
+footer{
+  background:#050605;
+  font-size:40px;
+  font-family: 华文行楷 Regular;
+}
+a{
+   text-decoration:none;
+   color: #fff;
+   padding: 1% 35%;
+   display: block;
+   transition: 0.5s;
+}
+a:hover{
+  color:rgb(149, 149, 95);
+}
